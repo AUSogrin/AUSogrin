@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AUSogrin/AUSogrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌊 Hi, I'm Andrey Sogrin! 
 
-Here are some ideas to get you started:
+**Backend Developer | Golang Enthusiast | Ocean Lover**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`🚀 Coding in Go • 🐳 Dockerizing apps • 📊 Monitoring with Prometheus`
+
+</div>
+
+## 🎯 About Me
+- 🔭 Currently integrating into **backend development** and team workflows
+- 🌱 Learning **Microservices, System Design, Backend Architecture** 
+- 💡 Passionate about scalable backend architecture and distributed systems
+- 🏄 **You can surf not only in the ocean** - sometimes code catches the wave too!
+
+## 🛠️ My Tech Stack
+```go
+package main
+
+import "fmt"
+
+type TechStack struct {
+    Languages  []string
+    Backend    []string  
+    Tools      []string
+    Databases  []string
+}
+
+func main() {
+    myStack := TechStack{
+        Languages: []string{"Golang", "SQL", "Bash"},
+        Backend:   []string{"REST API", "gRPC", "Microservices"},
+        Tools:     []string{"Docker", "Git", "VS Code", "Linux"},
+        Databases: []string{"PostgreSQL"},
+    }
+    fmt.Println("🚀 Ready to build amazing backend systems!")
+}
+
+
+
+
+## 📫 Connect with Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AY_Sogrin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AUSogrin)
+
+---
+
+<div align="center">
+
+**⚡ When code compiles on the first try:** 🎉
+
+</div>
