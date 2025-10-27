@@ -39,8 +39,8 @@ func main() {
 
 
 
-<div align="center">
+
 
 **⚡ When code compiles on the first try:** 🎉
 
-</div>
+
